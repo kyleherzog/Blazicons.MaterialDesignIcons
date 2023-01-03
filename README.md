@@ -3,6 +3,8 @@ Provides the Material Design Icons icon library packaged as [Blazicons](https://
 
 Check out the [Demo Site](http://blazicons.com).
 
+![Nuget](https://img.shields.io/nuget/v/Blazicons.MaterialDesignIcons)
+
 [![Build Status](https://dev.azure.com/kyleherzog/Blazicons/_apis/build/status/Blazicons.MaterialDesignIcons?branchName=main)](https://dev.azure.com/kyleherzog/Blazicons/_build/latest?definitionId=22&branchName=main)
 
 ## Getting Started
