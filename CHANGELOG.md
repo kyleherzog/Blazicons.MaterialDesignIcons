@@ -1,6 +1,9 @@
 # Changelog
 These are the list of changes to each version that has been released.
 
+## 1.3
+- [x] Updated Material Design Icons to v7.3.67
+
 ## 1.2
 - [x] Updated Material Design Icons to v7.2.96
 
