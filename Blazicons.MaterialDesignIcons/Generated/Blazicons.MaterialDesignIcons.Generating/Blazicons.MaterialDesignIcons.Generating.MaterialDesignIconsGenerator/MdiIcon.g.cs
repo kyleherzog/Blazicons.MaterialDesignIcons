@@ -110,6 +110,14 @@ public static SvgIcon AccountBadgeOutline => SvgIcon.FromContent("<path d=\"M14 
 /// </summary>
 public static SvgIcon AccountBadge => SvgIcon.FromContent("<path d=\"M14 19.5C14 17.5 15.1 15.7 16.7 14.8C15.4 14.3 13.8 14 12 14C7.6 14 4 15.8 4 18V20H14V19.5M19.5 16C17.6 16 16 17.6 16 19.5S17.6 23 19.5 23 23 21.4 23 19.5 21.4 16 19.5 16M16 8C16 10.2 14.2 12 12 12S8 10.2 8 8 9.8 4 12 4 16 5.8 16 8Z\" />", "0 0 24 24");
 /// <summary>
+/// Gets the AccountBoxEditOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon AccountBoxEditOutline => SvgIcon.FromContent("<path d=\"M21.7 13.58L20.42 12.3C20.21 12.09 19.86 12.09 19.65 12.3L18.65 13.3L20.7 15.35L21.7 14.35C21.91 14.14 21.91 13.79 21.7 13.58M12 22H14.06L20.11 15.93L18.06 13.88L12 19.94V22M10 21H5C4.47 21 3.96 20.79 3.59 20.41C3.21 20.04 3 19.53 3 19V5C3 4.47 3.21 3.96 3.59 3.59C3.96 3.21 4.47 3 5 3H19C20.1 3 21 3.89 21 5V10.33C20.36 10.07 19.63 10.08 19 10.36V5H5V19H10.11L10 19.11V21M14.62 14.5L12.11 17H7.5V16.25C7.5 14.75 10.5 14 12 14C12.7 14 13.73 14.16 14.62 14.5M13.59 11.59C13.17 12 12.6 12.25 12 12.25C11.4 12.25 10.83 12 10.41 11.59C10 11.17 9.75 10.6 9.75 10C9.75 9.4 10 8.83 10.41 8.41C10.83 8 11.4 7.75 12 7.75C12.6 7.75 13.17 8 13.59 8.41C14 8.83 14.25 9.4 14.25 10C14.25 10.6 14 11.17 13.59 11.59Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the AccountBoxMinusOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon AccountBoxMinusOutline => SvgIcon.FromContent("<path d=\"M13.4 14.15C12.73 14.95 12.26 15.93 12.08 17H7.5V16.25C7.5 14.75 10.5 14 12 14C12.39 14 12.88 14.05 13.4 14.15M19 5V12.08C19.72 12.2 20.39 12.45 21 12.8V5C21 3.89 20.1 3 19 3H5C4.47 3 3.96 3.21 3.59 3.59C3.21 3.96 3 4.47 3 5V19C3 19.53 3.21 20.04 3.59 20.41C3.96 20.79 4.47 21 5 21H12.8C12.45 20.39 12.2 19.72 12.08 19H5V5H19M12 12.25C12.6 12.25 13.17 12 13.59 11.59C14 11.17 14.25 10.6 14.25 10C14.25 9.4 14 8.83 13.59 8.41C13.17 8 12.6 7.75 12 7.75C11.4 7.75 10.83 8 10.41 8.41C10 8.83 9.75 9.4 9.75 10C9.75 10.6 10 11.17 10.41 11.59C10.83 12 11.4 12.25 12 12.25M22 17V19H14V17H22Z\" />", "0 0 24 24");
+/// <summary>
 /// Gets the AccountBoxMultipleOutline SvgIcon from the MdiIcon library.
 /// </summary>
 public static SvgIcon AccountBoxMultipleOutline => SvgIcon.FromContent("<path d=\"M4 6H2V20C2 21.11 2.9 22 4 22H18V20H4V6M18.5 14.25C18.5 12.75 15.5 12 14 12S9.5 12.75 9.5 14.25V15H18.5M14 10.25C15.24 10.25 16.25 9.24 16.25 8S15.24 5.75 14 5.75 11.75 6.76 11.75 8 12.76 10.25 14 10.25M20 2H8C6.9 2 6 2.9 6 4V16C6 17.11 6.9 18 8 18H20C21.11 18 22 17.11 22 16V4C22 2.89 21.1 2 20 2M20 16H8V4H20V16Z\" />", "0 0 24 24");
@@ -121,6 +129,10 @@ public static SvgIcon AccountBoxMultiple => SvgIcon.FromContent("<path d=\"M4,6H
 /// Gets the AccountBoxOutline SvgIcon from the MdiIcon library.
 /// </summary>
 public static SvgIcon AccountBoxOutline => SvgIcon.FromContent("<path d=\"M19,19H5V5H19M19,3H5A2,2 0 0,0 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5C21,3.89 20.1,3 19,3M16.5,16.25C16.5,14.75 13.5,14 12,14C10.5,14 7.5,14.75 7.5,16.25V17H16.5M12,12.25A2.25,2.25 0 0,0 14.25,10A2.25,2.25 0 0,0 12,7.75A2.25,2.25 0 0,0 9.75,10A2.25,2.25 0 0,0 12,12.25Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the AccountBoxPlusOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon AccountBoxPlusOutline => SvgIcon.FromContent("<path d=\"M13.4 14.15C12.73 14.95 12.26 15.93 12.08 17H7.5V16.25C7.5 14.75 10.5 14 12 14C12.39 14 12.88 14.05 13.4 14.15M19 5V12.08C19.72 12.2 20.39 12.45 21 12.8V5C21 3.89 20.1 3 19 3H5C4.47 3 3.96 3.21 3.59 3.59C3.21 3.96 3 4.47 3 5V19C3 19.53 3.21 20.04 3.59 20.41C3.96 20.79 4.47 21 5 21H12.8C12.45 20.39 12.2 19.72 12.08 19H5V5H19M12 12.25C12.6 12.25 13.17 12 13.59 11.59C14 11.17 14.25 10.6 14.25 10C14.25 9.4 14 8.83 13.59 8.41C13.17 8 12.6 7.75 12 7.75C11.4 7.75 10.83 8 10.41 8.41C10 8.83 9.75 9.4 9.75 10C9.75 10.6 10 11.17 10.41 11.59C10.83 12 11.4 12.25 12 12.25M17 14H19V17H22V19H19V22H17V19H14V17H17V14Z\" />", "0 0 24 24");
 /// <summary>
 /// Gets the AccountBox SvgIcon from the MdiIcon library.
 /// </summary>
@@ -4122,9 +4134,13 @@ public static SvgIcon BookOffOutline => SvgIcon.FromContent("<path d=\"M6 14.8L4
 /// </summary>
 public static SvgIcon BookOff => SvgIcon.FromContent("<path d=\"M18.68 2.12L12 8.8V2H18C18.24 2 18.46 2.05 18.68 2.12M9.5 7.5L7 9V2H6C4.89 2 4 2.9 4 4V16.8L11.88 8.93L9.5 7.5M21.61 1.73L1.89 21.46L3.16 22.73L4.54 21.35C4.9 21.75 5.42 22 6 22H18C19.11 22 20 21.11 20 20V5.89L22.89 3L21.61 1.73Z\" />", "0 0 24 24");
 /// <summary>
+/// Gets the BookOpenBlankVariantOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon BookOpenBlankVariantOutline => SvgIcon.FromContent("<path d=\"M12 21.5C10.65 20.65 8.2 20 6.5 20C4.85 20 3.15 20.3 1.75 21.05C1.65 21.1 1.6 21.1 1.5 21.1C1.25 21.1 1 20.85 1 20.6V6C1.6 5.55 2.25 5.25 3 5C4.11 4.65 5.33 4.5 6.5 4.5C8.45 4.5 10.55 4.9 12 6C13.45 4.9 15.55 4.5 17.5 4.5C18.67 4.5 19.89 4.65 21 5C21.75 5.25 22.4 5.55 23 6V20.6C23 20.85 22.75 21.1 22.5 21.1C22.4 21.1 22.35 21.1 22.25 21.05C20.85 20.3 19.15 20 17.5 20C15.8 20 13.35 20.65 12 21.5M11 7.5C9.64 6.9 7.84 6.5 6.5 6.5C5.3 6.5 4.1 6.65 3 7V18.5C4.1 18.15 5.3 18 6.5 18C7.84 18 9.64 18.4 11 19V7.5M13 19C14.36 18.4 16.16 18 17.5 18C18.7 18 19.9 18.15 21 18.5V7C19.9 6.65 18.7 6.5 17.5 6.5C16.16 6.5 14.36 6.9 13 7.5V19Z\" />", "0 0 24 24");
+/// <summary>
 /// Gets the BookOpenBlankVariant SvgIcon from the MdiIcon library.
 /// </summary>
-public static SvgIcon BookOpenBlankVariant => SvgIcon.FromContent("<path d=\"M21,5C19.89,4.65 18.67,4.5 17.5,4.5C15.55,4.5 13.45,4.9 12,6C10.55,4.9 8.45,4.5 6.5,4.5C4.55,4.5 2.45,4.9 1,6V20.65C1,20.9 1.25,21.15 1.5,21.15C1.6,21.15 1.65,21.1 1.75,21.1C3.1,20.45 5.05,20 6.5,20C8.45,20 10.55,20.4 12,21.5C13.35,20.65 15.8,20 17.5,20C19.15,20 20.85,20.3 22.25,21.05C22.35,21.1 22.4,21.1 22.5,21.1C22.75,21.1 23,20.85 23,20.6V6C22.4,5.55 21.75,5.25 21,5M21,18.5C19.9,18.15 18.7,18 17.5,18C15.8,18 13.35,18.65 12,19.5V8C13.35,7.15 15.8,6.5 17.5,6.5C18.7,6.5 19.9,6.65 21,7V18.5Z\" />", "0 0 24 24");
+public static SvgIcon BookOpenBlankVariant => SvgIcon.FromContent("<path d=\"M6.5 20C8.2 20 10.65 20.65 12 21.5C13.35 20.65 15.8 20 17.5 20C19.15 20 20.85 20.3 22.25 21.05C22.35 21.1 22.4 21.1 22.5 21.1C22.75 21.1 23 20.85 23 20.6V6C22.4 5.55 21.75 5.25 21 5C19.89 4.65 18.67 4.5 17.5 4.5C15.55 4.5 13.45 4.9 12 6C10.55 4.9 8.45 4.5 6.5 4.5C5.33 4.5 4.11 4.65 3 5C2.25 5.25 1.6 5.55 1 6V20.6C1 20.85 1.25 21.1 1.5 21.1C1.6 21.1 1.65 21.1 1.75 21.05C3.15 20.3 4.85 20 6.5 20M12 19.5V8C13.35 7.15 15.8 6.5 17.5 6.5C18.7 6.5 19.9 6.65 21 7V18.5C19.9 18.15 18.7 18 17.5 18C15.8 18 13.35 18.65 12 19.5Z\" />", "0 0 24 24");
 /// <summary>
 /// Gets the BookOpenOutline SvgIcon from the MdiIcon library.
 /// </summary>
@@ -4138,9 +4154,13 @@ public static SvgIcon BookOpenPageVariantOutline => SvgIcon.FromContent("<path d
 /// </summary>
 public static SvgIcon BookOpenPageVariant => SvgIcon.FromContent("<path d=\"M19 2L14 6.5V17.5L19 13V2M6.5 5C4.55 5 2.45 5.4 1 6.5V21.16C1 21.41 1.25 21.66 1.5 21.66C1.6 21.66 1.65 21.59 1.75 21.59C3.1 20.94 5.05 20.5 6.5 20.5C8.45 20.5 10.55 20.9 12 22C13.35 21.15 15.8 20.5 17.5 20.5C19.15 20.5 20.85 20.81 22.25 21.56C22.35 21.61 22.4 21.59 22.5 21.59C22.75 21.59 23 21.34 23 21.09V6.5C22.4 6.05 21.75 5.75 21 5.5V19C19.9 18.65 18.7 18.5 17.5 18.5C15.8 18.5 13.35 19.15 12 20V6.5C10.55 5.4 8.45 5 6.5 5Z\" />", "0 0 24 24");
 /// <summary>
+/// Gets the BookOpenVariantOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon BookOpenVariantOutline => SvgIcon.FromContent("<path d=\"M12 21.5C10.65 20.65 8.2 20 6.5 20C4.85 20 3.15 20.3 1.75 21.05C1.65 21.1 1.6 21.1 1.5 21.1C1.25 21.1 1 20.85 1 20.6V6C1.6 5.55 2.25 5.25 3 5C4.11 4.65 5.33 4.5 6.5 4.5C8.45 4.5 10.55 4.9 12 6C13.45 4.9 15.55 4.5 17.5 4.5C18.67 4.5 19.89 4.65 21 5C21.75 5.25 22.4 5.55 23 6V20.6C23 20.85 22.75 21.1 22.5 21.1C22.4 21.1 22.35 21.1 22.25 21.05C20.85 20.3 19.15 20 17.5 20C15.8 20 13.35 20.65 12 21.5M11 7.5C9.64 6.9 7.84 6.5 6.5 6.5C5.3 6.5 4.1 6.65 3 7V18.5C4.1 18.15 5.3 18 6.5 18C7.84 18 9.64 18.4 11 19V7.5M13 19C14.36 18.4 16.16 18 17.5 18C18.7 18 19.9 18.15 21 18.5V7C19.9 6.65 18.7 6.5 17.5 6.5C16.16 6.5 14.36 6.9 13 7.5V19M14 16.35C14.96 16 16.12 15.83 17.5 15.83C18.54 15.83 19.38 15.91 20 16.07V14.57C19.13 14.41 18.29 14.33 17.5 14.33C16.16 14.33 15 14.5 14 14.76V16.35M14 13.69C14.96 13.34 16.12 13.16 17.5 13.16C18.54 13.16 19.38 13.24 20 13.4V11.9C19.13 11.74 18.29 11.67 17.5 11.67C16.22 11.67 15.05 11.82 14 12.12V13.69M14 11C14.96 10.67 16.12 10.5 17.5 10.5C18.41 10.5 19.26 10.59 20 10.78V9.23C19.13 9.08 18.29 9 17.5 9C16.18 9 15 9.15 14 9.46V11Z\" />", "0 0 24 24");
+/// <summary>
 /// Gets the BookOpenVariant SvgIcon from the MdiIcon library.
 /// </summary>
-public static SvgIcon BookOpenVariant => SvgIcon.FromContent("<path d=\"M17.5 14.33C18.29 14.33 19.13 14.41 20 14.57V16.07C19.38 15.91 18.54 15.83 17.5 15.83C15.6 15.83 14.11 16.16 13 16.82V15.13C14.17 14.6 15.67 14.33 17.5 14.33M13 12.46C14.29 11.93 15.79 11.67 17.5 11.67C18.29 11.67 19.13 11.74 20 11.9V13.4C19.38 13.24 18.54 13.16 17.5 13.16C15.6 13.16 14.11 13.5 13 14.15M17.5 10.5C15.6 10.5 14.11 10.82 13 11.5V9.84C14.23 9.28 15.73 9 17.5 9C18.29 9 19.13 9.08 20 9.23V10.78C19.26 10.59 18.41 10.5 17.5 10.5M21 18.5V7C19.96 6.67 18.79 6.5 17.5 6.5C15.45 6.5 13.62 7 12 8V19.5C13.62 18.5 15.45 18 17.5 18C18.69 18 19.86 18.16 21 18.5M17.5 4.5C19.85 4.5 21.69 5 23 6V20.56C23 20.68 22.95 20.8 22.84 20.91C22.73 21 22.61 21.08 22.5 21.08C22.39 21.08 22.31 21.06 22.25 21.03C20.97 20.34 19.38 20 17.5 20C15.45 20 13.62 20.5 12 21.5C10.66 20.5 8.83 20 6.5 20C4.84 20 3.25 20.36 1.75 21.07C1.72 21.08 1.68 21.08 1.63 21.1C1.59 21.11 1.55 21.12 1.5 21.12C1.39 21.12 1.27 21.08 1.16 21C1.05 20.89 1 20.78 1 20.65V6C2.34 5 4.18 4.5 6.5 4.5C8.83 4.5 10.66 5 12 6C13.34 5 15.17 4.5 17.5 4.5Z\" />", "0 0 24 24");
+public static SvgIcon BookOpenVariant => SvgIcon.FromContent("<path d=\"M12 21.5C10.65 20.65 8.2 20 6.5 20C4.85 20 3.15 20.3 1.75 21.05C1.65 21.1 1.6 21.1 1.5 21.1C1.25 21.1 1 20.85 1 20.6V6C1.6 5.55 2.25 5.25 3 5C4.11 4.65 5.33 4.5 6.5 4.5C8.45 4.5 10.55 4.9 12 6C13.45 4.9 15.55 4.5 17.5 4.5C18.67 4.5 19.89 4.65 21 5C21.75 5.25 22.4 5.55 23 6V20.6C23 20.85 22.75 21.1 22.5 21.1C22.4 21.1 22.35 21.1 22.25 21.05C20.85 20.3 19.15 20 17.5 20C15.8 20 13.35 20.65 12 21.5M12 8V19.5C13.35 18.65 15.8 18 17.5 18C18.7 18 19.9 18.15 21 18.5V7C19.9 6.65 18.7 6.5 17.5 6.5C15.8 6.5 13.35 7.15 12 8M13 11.5C14.11 10.82 15.6 10.5 17.5 10.5C18.41 10.5 19.26 10.59 20 10.78V9.23C19.13 9.08 18.29 9 17.5 9C15.73 9 14.23 9.28 13 9.84V11.5M17.5 11.67C15.79 11.67 14.29 11.93 13 12.46V14.15C14.11 13.5 15.6 13.16 17.5 13.16C18.54 13.16 19.38 13.24 20 13.4V11.9C19.13 11.74 18.29 11.67 17.5 11.67M20 14.57C19.13 14.41 18.29 14.33 17.5 14.33C15.67 14.33 14.17 14.6 13 15.13V16.82C14.11 16.16 15.6 15.83 17.5 15.83C18.54 15.83 19.38 15.91 20 16.07V14.57Z\" />", "0 0 24 24");
 /// <summary>
 /// Gets the BookOpen SvgIcon from the MdiIcon library.
 /// </summary>
@@ -6409,6 +6429,14 @@ public static SvgIcon ChartBellCurveCumulative => SvgIcon.FromContent("<path d=\
 /// Gets the ChartBellCurve SvgIcon from the MdiIcon library.
 /// </summary>
 public static SvgIcon ChartBellCurve => SvgIcon.FromContent("<path d=\"M9.96,11.31C10.82,8.1 11.5,6 13,6C14.5,6 15.18,8.1 16.04,11.31C17,14.92 18.1,19 22,19V17C19.8,17 19,14.54 17.97,10.8C17.08,7.46 16.15,4 13,4C9.85,4 8.92,7.46 8.03,10.8C7.03,14.54 6.2,17 4,17V2H2V22H22V20H4V19C7.9,19 9,14.92 9.96,11.31Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the ChartBoxMultipleOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon ChartBoxMultipleOutline => SvgIcon.FromContent("<path d=\"M20 16V4H8V16M22 16C22 17.1 21.1 18 20 18H8C6.9 18 6 17.1 6 16V4C6 2.9 6.9 2 8 2H20C21.1 2 22 2.9 22 4M16 20V22H4C2.9 22 2 21.1 2 20V7H4V20M16 11H18V14H16M13 6H15V14H13M10 8H12V14H10Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the ChartBoxMultiple SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon ChartBoxMultiple => SvgIcon.FromContent("<path d=\"M4 20H16V22H4C2.9 22 2 21.1 2 20V7H4M22 4V16C22 17.1 21.1 18 20 18H8C6.9 18 6 17.1 6 16V4C6 2.9 6.9 2 8 2H20C21.1 2 22 2.9 22 4M12 8H10V14H12M15 6H13V14H15M18 11H16V14H18Z\" />", "0 0 24 24");
 /// <summary>
 /// Gets the ChartBoxOutline SvgIcon from the MdiIcon library.
 /// </summary>
@@ -9602,6 +9630,10 @@ public static SvgIcon DiamondStone => SvgIcon.FromContent("<path d=\"M16,9H19L14
 /// </summary>
 public static SvgIcon Diamond => SvgIcon.FromContent("<path d=\"M6,2L2,8L12,22L22,8L18,2H6Z\" />", "0 0 24 24");
 /// <summary>
+/// Gets the DiaperOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon DiaperOutline => SvgIcon.FromContent("<path d=\"M21 4H3C2.45 4 2 4.45 2 5V10C2 15.5 6.5 20 12 20C17.5 20 22 15.5 22 10V5C22 4.45 21.55 4 21 4M4 6H20V8H15V10H20C20 10.34 20 10.67 19.94 11C16.12 11.03 13.03 14.12 13 17.94C12.67 18 12.34 18 12 18C11.66 18 11.33 18 11 17.94C10.97 14.12 7.88 11.03 4.06 11C4 10.67 4 10.34 4 10H9V8H4V6M15.04 17.4C15.31 15.12 17.12 13.31 19.41 13.04C18.59 15 17 16.59 15.03 17.41M4.6 13.04C6.88 13.31 8.7 15.12 8.97 17.41C7 16.59 5.41 15 4.6 13.03Z\" />", "0 0 24 24");
+/// <summary>
 /// Gets the Dice1Outline SvgIcon from the MdiIcon library.
 /// </summary>
 public static SvgIcon Dice1Outline => SvgIcon.FromContent("<path d=\"M19 5V19H5V5H19M19 3H5C3.9 3 3 3.9 3 5V19C3 20.11 3.9 21 5 21H19C20.11 21 21 20.11 21 19V5C21 3.9 20.11 3 19 3M12 10.5C11.17 10.5 10.5 11.17 10.5 12S11.17 13.5 12 13.5 13.5 12.83 13.5 12 12.83 10.5 12 10.5\" />", "0 0 24 24");
@@ -10037,6 +10069,10 @@ public static SvgIcon DownloadLockOutline => SvgIcon.FromContent("<path d=\"M22 
 /// Gets the DownloadLock SvgIcon from the MdiIcon library.
 /// </summary>
 public static SvgIcon DownloadLock => SvgIcon.FromContent("<path d=\"M5 20H14V18H5M19 9H15V3H9V9H5L12 16M22 16A1.08 1.08 0 0 1 23 17V21A1.08 1.08 0 0 1 22 22H17A1.08 1.08 0 0 1 16 21V17A1.08 1.08 0 0 1 17 16V14.5A2.5 2.5 0 0 1 22 14.5V16M21 16V14.5A1.5 1.5 0 0 0 18 14.5V16H21\" />", "0 0 24 24");
+/// <summary>
+/// Gets the DownloadMultipleOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon DownloadMultipleOutline => SvgIcon.FromContent("<path d=\"M12 14L19 7H15V1H9V7H5L12 14M12 11.17L9.83 9H11V3H13V9H14.17L12 11.17M5 16V18H19V16H5M5 22V20H19V22H5Z\" />", "0 0 24 24");
 /// <summary>
 /// Gets the DownloadMultiple SvgIcon from the MdiIcon library.
 /// </summary>
@@ -10757,6 +10793,10 @@ public static SvgIcon EthernetCableOff => SvgIcon.FromContent("<path d=\"M11,3H1
 /// Gets the EthernetCable SvgIcon from the MdiIcon library.
 /// </summary>
 public static SvgIcon EthernetCable => SvgIcon.FromContent("<path d=\"M11,3V7H13V3H11M8,4V11H16V4H14V8H10V4H8M10,12V22H14V12H10Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the EthernetOff SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon EthernetOff => SvgIcon.FromContent("<path d=\"M2.39 1.73L1.11 3L2.32 4.21C2.12 4.56 2 4.95 2 5.38V19.63C2 20.94 3.06 22 4.38 22H19.63C19.78 22 19.92 22 20.07 21.96L20.84 22.73L22.11 21.46L2.39 1.73M15 18H13V15H11V18H9V15H7V18H5V9H7.11L15 16.89V18M9.2 6L6.2 3H19.63C20.94 3 22 4.06 22 5.38V18.8L19 15.8V9H15V6H9.2Z\" />", "0 0 24 24");
 /// <summary>
 /// Gets the Ethernet SvgIcon from the MdiIcon library.
 /// </summary>
@@ -15942,6 +15982,218 @@ public static SvgIcon InvertColorsOff => SvgIcon.FromContent("<path d=\"M20.65,2
 /// </summary>
 public static SvgIcon InvertColors => SvgIcon.FromContent("<path d=\"M12,19.58V19.58C10.4,19.58 8.89,18.96 7.76,17.83C6.62,16.69 6,15.19 6,13.58C6,12 6.62,10.47 7.76,9.34L12,5.1M17.66,7.93L12,2.27V2.27L6.34,7.93C3.22,11.05 3.22,16.12 6.34,19.24C7.9,20.8 9.95,21.58 12,21.58C14.05,21.58 16.1,20.8 17.66,19.24C20.78,16.12 20.78,11.05 17.66,7.93Z\" />", "0 0 24 24");
 /// <summary>
+/// Gets the InvoiceArrowLeftOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceArrowLeftOutline => SvgIcon.FromContent("<path d=\"M21 13.34C20.37 13.12 19.7 13 19 13V5H5V18.26L6 17.6L9 19.6L12 17.6L13.04 18.29C13 18.5 13 18.76 13 19C13 19.65 13.1 20.28 13.3 20.86L12 20L9 22L6 20L3 22V3H21V13.34M18 18V16L15 19L18 22V20H22V18H18Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceArrowLeft SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceArrowLeft => SvgIcon.FromContent("<path d=\"M21 13.34C20.37 13.12 19.7 13 19 13C15.69 13 13 15.69 13 19C13 19.65 13.1 20.28 13.3 20.86L12 20L9 22L6 20L3 22V3H21V13.34M18 18V16L15 19L18 22V20H22V18H18Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceArrowRightOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceArrowRightOutline => SvgIcon.FromContent("<path d=\"M21 13.34C20.37 13.12 19.7 13 19 13V5H5V18.26L6 17.6L9 19.6L12 17.6L13.04 18.29C13 18.5 13 18.76 13 19C13 19.65 13.1 20.28 13.3 20.86L12 20L9 22L6 20L3 22V3H21V13.34M19 22V20H15V18H19V16L22 19L19 22Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceArrowRight SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceArrowRight => SvgIcon.FromContent("<path d=\"M21 13.34C20.37 13.12 19.7 13 19 13C15.69 13 13 15.69 13 19C13 19.65 13.1 20.28 13.3 20.86L12 20L9 22L6 20L3 22V3H21V13.34M19 22V20H15V18H19V16L22 19L19 22Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceCheckOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceCheckOutline => SvgIcon.FromContent("<path d=\"M19 13C19.7 13 20.37 13.12 21 13.34V3H3V22L6 20L9 22L12 20L13.3 20.86C13.1 20.28 13 19.65 13 19C13 18.76 13 18.5 13.04 18.29L12 17.6L9 19.6L6 17.6L5 18.26V5H19V13M15.5 19L18.25 22L23 17.23L21.84 15.82L18.25 19.41L16.66 17.82L15.5 19Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceCheck SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceCheck => SvgIcon.FromContent("<path d=\"M19 13C19.7 13 20.37 13.12 21 13.34V3H3V22L6 20L9 22L12 20L13.3 20.86C13.1 20.28 13 19.65 13 19C13 15.69 15.69 13 19 13M15.5 19L18.25 22L23 17.23L21.84 15.82L18.25 19.41L16.66 17.82L15.5 19Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceClockOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceClockOutline => SvgIcon.FromContent("<path d=\"M15 16.69V13H16.5V15.82L18.94 17.23L18.19 18.53L15 16.69M10.87 20.76L9 22L6 20L3 22V3H21V11.1C22.24 12.36 23 14.09 23 16C23 19.87 19.87 23 16 23C13.97 23 12.14 22.14 10.87 20.76M9.73 19.11C9.26 18.17 9 17.12 9 16C9 12.13 12.13 9 16 9C17.07 9 18.09 9.24 19 9.67V5H5V18.26L6 17.6L9 19.6L9.73 19.11M16 21C18.76 21 21 18.76 21 16C21 13.24 18.76 11 16 11C13.24 11 11 13.24 11 16C11 18.76 13.24 21 16 21Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceClock SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceClock => SvgIcon.FromContent("<path d=\"M15 13V16.69L18.19 18.53L18.94 17.23L16.5 15.82V13H15M9 22L10.87 20.76C12.14 22.14 13.97 23 16 23C19.87 23 23 19.87 23 16C23 14.09 22.24 12.36 21 11.1V3H3V22L6 20L9 22M16 21C13.24 21 11 18.76 11 16C11 13.24 13.24 11 16 11C18.76 11 21 13.24 21 16C21 18.76 18.76 21 16 21Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceEditOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceEditOutline => SvgIcon.FromContent("<path d=\"M9.86 21.43L9 22L6 20L3 22V3H21V10.2C20.37 9.93 19.64 9.93 19 10.22V5H5V18.26L6 17.6L9 19.6L9.86 19V21.43M11.86 19.96L18 13.83L20.03 15.87L13.9 22H11.86V19.96M20.73 15.17L21.71 14.19C21.91 14 21.91 13.67 21.71 13.47L20.39 12.15C20.37 12.13 20.34 12.1 20.31 12.09C20.12 11.96 19.86 11.97 19.69 12.13L19.67 12.15L18.69 13.13L20.73 15.17Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceEdit SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceEdit => SvgIcon.FromContent("<path d=\"M9.86 21.43L9 22L6 20L3 22V3H21V10.2C20.1 9.82 19 10 18.24 10.75L9.86 19.13V21.43M11.86 19.96L18 13.83L20.03 15.87L13.9 22H11.86V19.96M20.39 12.15C20.37 12.13 20.34 12.1 20.31 12.09C20.12 11.96 19.86 11.97 19.69 12.13L19.67 12.15L18.69 13.13L20.73 15.17L21.71 14.19C21.91 14 21.91 13.67 21.71 13.47L20.39 12.15Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceExportOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceExportOutline => SvgIcon.FromContent("<path d=\"M21 22L18 20L15 22L12 20L9 22L6 20L3 22V3H21V9.67L19 7.67V5H5V18.26L6 17.6L9 19.6L12 17.6L15 19.6L18 17.6L19 18.26V16.33L21 14.33V22M20.5 12L15.5 7L14.08 8.41L16.67 11H7V13H16.67L14.08 15.58L15.5 17L20.5 12Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceFastOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceFastOutline => SvgIcon.FromContent("<path d=\"M19.5 19.32L22 21V5H7V21L9.5 19.32L12 21L14.5 19.32L17 21L19.5 19.32M20 7V16.57L17 18.59L14.5 16.9L12 18.59L9 16.57V7H20M2 8C2 7.4 2.4 7 3 7H5V9H3C2.4 9 2 8.6 2 8M2 11C1.4 11 1 11.4 1 12C1 12.6 1.4 13 2 13H5V11H2M0 16C0 15.4 .4 15 1 15H5V17H1C.4 17 0 16.6 0 16Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceFast SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceFast => SvgIcon.FromContent("<path d=\"M22 5H7V21L9.5 19.32L12 21L14.5 19.32L17 21L19.5 19.32L22 21V5M2 8C2 7.4 2.4 7 3 7H5V9H3C2.4 9 2 8.6 2 8M1 12C1 11.4 1.4 11 2 11H5V13H2C1.4 13 1 12.6 1 12M0 16C0 15.4 .4 15 1 15H5V17H1C.4 17 0 16.6 0 16Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceImportOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceImportOutline => SvgIcon.FromContent("<path d=\"M18 20L21 22V3H3V9H5V5H19V18.26L18 17.6L15 19.6L12 17.6L9 19.6L6 17.6L5 18.26V15H3V22L6 20L9 22L12 20L15 22L18 20M11.5 17L10.08 15.58L12.67 13H3V11H12.67L10.08 8.41L11.5 7L16.5 12L11.5 17Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceImport SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceImport => SvgIcon.FromContent("<path d=\"M18 20L21 22V3H3V11H12.67L10.08 8.41L11.5 7L16.5 12L11.5 17L10.08 15.58L12.67 13H3V22L6 20L9 22L12 20L15 22L18 20Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceListOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceListOutline => SvgIcon.FromContent("<path d=\"M17 7V9H15V7H17M13 7V9H7V7H13M13 11H7V13H13V11M15 11V13H17V11H15M21 22L18 20L15 22L12 20L9 22L6 20L3 22V3H21V22M19 18.26V5H5V18.26L6 17.6L9 19.6L12 17.6L15 19.6L18 17.6L19 18.26Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceList SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceList => SvgIcon.FromContent("<path d=\"M3 22V3H21V22L18 20L15 22L12 20L9 22L6 20L3 22M17 9V7H15V9H17M13 9V7H7V9H13M13 11H7V13H13V11M15 13H17V11H15V13Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceMinusOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceMinusOutline => SvgIcon.FromContent("<path d=\"M21 13.34C20.37 13.12 19.7 13 19 13V5H5V18.26L6 17.6L9 19.6L12 17.6L13.04 18.29C13 18.5 13 18.76 13 19C13 19.65 13.1 20.28 13.3 20.86L12 20L9 22L6 20L3 22V3H21V13.34M15 18V20H23V18H15Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceMinus SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceMinus => SvgIcon.FromContent("<path d=\"M3 22V3H21V13.34C20.37 13.12 19.7 13 19 13C15.69 13 13 15.69 13 19C13 19.65 13.1 20.28 13.3 20.86L12 20L9 22L6 20L3 22M15 18V20H23V18H15Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceMultipleOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceMultipleOutline => SvgIcon.FromContent("<path d=\"M2 2V17H4V4H17V2H2M18.5 20.32L21 22V6H6V22L8.5 20.32L11 22L13.5 20.32L16 22L18.5 20.32M19 8V17.57L16 19.59L13.5 17.9L11 19.59L8 17.57V8H19Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceMultiple SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceMultiple => SvgIcon.FromContent("<path d=\"M17 2H2V17H4V4H17V2M21 22L18.5 20.32L16 22L13.5 20.32L11 22L8.5 20.32L6 22V6H21V22Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceOutline => SvgIcon.FromContent("<path d=\"M21 22L18 20L15 22L12 20L9 22L6 20L3 22V3H21V22M19 18.26V5H5V18.26L6 17.6L9 19.6L12 17.6L15 19.6L18 17.6L19 18.26Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoicePlusOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoicePlusOutline => SvgIcon.FromContent("<path d=\"M21 13.34C20.37 13.12 19.7 13 19 13V5H5V18.26L6 17.6L9 19.6L12 17.6L13.04 18.29C13 18.5 13 18.76 13 19C13 19.65 13.1 20.28 13.3 20.86L12 20L9 22L6 20L3 22V3H21V13.34M18 15V18H15V20H18V23H20V20H23V18H20V15H18Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoicePlus SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoicePlus => SvgIcon.FromContent("<path d=\"M3 22V3H21V13.34C20.37 13.12 19.7 13 19 13C15.69 13 13 15.69 13 19C13 19.65 13.1 20.28 13.3 20.86L12 20L9 22L6 20L3 22M18 15V18H15V20H18V23H20V20H23V18H20V15H18Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceRemoveOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceRemoveOutline => SvgIcon.FromContent("<path d=\"M19 13C19.7 13 20.37 13.12 21 13.34V3H3V22L6 20L9 22L12 20L13.3 20.86C13.1 20.28 13 19.65 13 19C13 18.76 13 18.5 13.04 18.29L12 17.6L9 19.6L6 17.6L5 18.26V5H19V13M19 17.6L16.9 15.5L15.5 16.9L17.6 19L15.5 21.1L16.9 22.5L19 20.4L21.1 22.5L22.5 21.1L20.4 19L22.5 16.9L21.1 15.5L19 17.6Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceRemove SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceRemove => SvgIcon.FromContent("<path d=\"M19 13C19.7 13 20.37 13.12 21 13.34V3H3V22L6 20L9 22L12 20L13.3 20.86C13.1 20.28 13 19.65 13 19C13 15.69 15.69 13 19 13M19 17.6L16.9 15.5L15.5 16.9L17.6 19L15.5 21.1L16.9 22.5L19 20.4L21.1 22.5L22.5 21.1L20.4 19L22.5 16.9L21.1 15.5L19 17.6Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceSendOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceSendOutline => SvgIcon.FromContent("<path d=\"M24 18L14 13V17L18 18L14 19V23L24 18M19 13.26L21 14.26V3H3V22L6 20L9 22L12 20V17.6L9 19.6L6 17.6L5 18.26V5H19V13.26Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceSend SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceSend => SvgIcon.FromContent("<path d=\"M3 22V3H21V14.26L12 9.76V20L9 22L6 20L3 22M24 18L14 23V19L18 18L14 17V13L24 18Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceTextArrowLeftOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceTextArrowLeftOutline => SvgIcon.FromContent("<path d=\"M13.3 20.86L12 20L9 22L6 20L3 22V3H21V13.34C20.37 13.12 19.7 13 19 13V5H5V18.26L6 17.6L9 19.6L12 17.6L13.04 18.29C13 18.5 13 18.76 13 19C13 19.65 13.1 20.28 13.3 20.86M17 7V9H7V7H17M15 11V13H7V11H15M18 18V16L15 19L18 22V20H22V18H18Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceTextArrowLeft SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceTextArrowLeft => SvgIcon.FromContent("<path d=\"M3 22V3H21V13.34C20.37 13.12 19.7 13 19 13C15.69 13 13 15.69 13 19C13 19.65 13.1 20.28 13.3 20.86L12 20L9 22L6 20L3 22M17 9V7H7V9H17M15 13V11H7V13H15M18 18V16L15 19L18 22V20H22V18H18Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceTextArrowRightOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceTextArrowRightOutline => SvgIcon.FromContent("<path d=\"M13.3 20.86L12 20L9 22L6 20L3 22V3H21V13.34C20.37 13.12 19.7 13 19 13V5H5V18.26L6 17.6L9 19.6L12 17.6L13.04 18.29C13 18.5 13 18.76 13 19C13 19.65 13.1 20.28 13.3 20.86M17 7V9H7V7H17M15 11V13H7V11H15M19 22V20H15V18H19V16L22 19L19 22Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceTextArrowRight SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceTextArrowRight => SvgIcon.FromContent("<path d=\"M3 22V3H21V13.34C20.37 13.12 19.7 13 19 13C15.69 13 13 15.69 13 19C13 19.65 13.1 20.28 13.3 20.86L12 20L9 22L6 20L3 22M17 9V7H7V9H17M15 13V11H7V13H15M19 22V20H15V18H19V16L22 19L19 22Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceTextCheckOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceTextCheckOutline => SvgIcon.FromContent("<path d=\"M12 20L13.3 20.86C13.1 20.28 13 19.65 13 19C13 18.76 13 18.5 13.04 18.29L12 17.6L9 19.6L6 17.6L5 18.26V5H19V13C19.7 13 20.37 13.12 21 13.34V3H3V22L6 20L9 22L12 20M17 9V7H7V9H17M15 13V11H7V13H15M15.5 19L18.25 22L23 17.23L21.84 15.82L18.25 19.41L16.66 17.82L15.5 19Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceTextCheck SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceTextCheck => SvgIcon.FromContent("<path d=\"M3 3V22L6 20L9 22L12 20L13.3 20.86C13.1 20.28 13 19.65 13 19C13 15.69 15.69 13 19 13C19.7 13 20.37 13.12 21 13.34V3H3M17 7V9H7V7H17M15 11V13H7V11H15M15.5 19L18.25 22L23 17.23L21.84 15.82L18.25 19.41L16.66 17.82L15.5 19Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceTextClockOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceTextClockOutline => SvgIcon.FromContent("<path d=\"M17 9H7V7H17V9M15 13V16.69L18.19 18.53L18.94 17.23L16.5 15.82V13H15M9 22L10.87 20.76C12.14 22.14 13.97 23 16 23C19.87 23 23 19.87 23 16C23 14.09 22.24 12.36 21 11.1V3H3V22L6 20L9 22M9 19.6L6 17.6L5 18.26V5H19V9.67C18.09 9.24 17.07 9 16 9C14.09 9 12.36 9.76 11.1 11H7V13H9.67C9.24 13.91 9 14.93 9 16C9 17.12 9.26 18.17 9.73 19.11L9 19.6M16 21C13.24 21 11 18.76 11 16C11 13.24 13.24 11 16 11C18.76 11 21 13.24 21 16C21 18.76 18.76 21 16 21Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceTextClock SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceTextClock => SvgIcon.FromContent("<path d=\"M15 16.69V13H16.5V15.82L18.94 17.23L18.19 18.53L15 16.69M3 22V3H21V11.1C22.24 12.36 23 14.09 23 16C23 19.87 19.87 23 16 23C13.97 23 12.14 22.14 10.87 20.76L9 22L6 20L3 22M9.67 13C10.03 12.25 10.5 11.57 11.1 11H7V13H9.67M17 9V7H7V9H17M16 21C18.76 21 21 18.76 21 16C21 13.24 18.76 11 16 11C13.24 11 11 13.24 11 16C11 18.76 13.24 21 16 21Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceTextEditOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceTextEditOutline => SvgIcon.FromContent("<path d=\"M9.86 21.43L9 22L6 20L3 22V3H21V10.2C20.37 9.93 19.64 9.93 19 10.22V5H5V18.26L6 17.6L9 19.6L9.86 19V21.43M11.86 19.96L18 13.83L20.03 15.87L13.9 22H11.86V19.96M21.71 14.19L20.73 15.17L18.69 13.13L19.67 12.15L19.68 12.14L19.69 12.13C19.86 11.97 20.12 11.96 20.31 12.09C20.34 12.1 20.37 12.13 20.39 12.15L21.71 13.47C21.91 13.67 21.91 14 21.71 14.19M17 9V7H7V9H17M15 13V11H7V13H15Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceTextEdit SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceTextEdit => SvgIcon.FromContent("<path d=\"M9.86 21.43L9 22L6 20L3 22V3H21V10.2C20.1 9.82 19 10 18.24 10.75L9.86 19.13V21.43M17 7H7V9H17V7M15 11H7V13H15V11M11.86 19.96V22H13.9L20.03 15.87L18 13.83L11.86 19.96M21.71 13.47L20.39 12.15C20.37 12.13 20.34 12.1 20.31 12.09C20.12 11.96 19.86 11.97 19.69 12.13L19.67 12.15L18.69 13.13L20.73 15.17L21.71 14.19C21.91 14 21.91 13.67 21.71 13.47Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceTextFastOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceTextFastOutline => SvgIcon.FromContent("<path d=\"M18 9H11V11H18V9M11 13H16V15H11V13M22 21L19.5 19.32L17 21L14.5 19.32L12 21L9.5 19.32L7 21V5H22V21M20 16.57V7H9V16.57L12 18.59L14.5 16.9L17 18.59L20 16.57M3 7C2.4 7 2 7.4 2 8C2 8.6 2.4 9 3 9H5V7H3M2 11C1.4 11 1 11.4 1 12C1 12.6 1.4 13 2 13H5V11H2M1 15C.4 15 0 15.4 0 16C0 16.6 .4 17 1 17H5V15H1Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceTextFast SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceTextFast => SvgIcon.FromContent("<path d=\"M7 5H22V21L19.5 19.32L17 21L14.5 19.32L12 21L9.5 19.32L7 21V5M18 9H11V11H18V9M11 13V15H16V13H11M3 7C2.4 7 2 7.4 2 8C2 8.6 2.4 9 3 9H5V7H3M1 12C1 11.4 1.4 11 2 11H5V13H2C1.4 13 1 12.6 1 12M1 15C.4 15 0 15.4 0 16C0 16.6 .4 17 1 17H5V15H1Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceTextMinusOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceTextMinusOutline => SvgIcon.FromContent("<path d=\"M21 13.34C20.37 13.12 19.7 13 19 13V5H5V18.26L6 17.6L9 19.6L12 17.6L13.04 18.29C13 18.5 13 18.76 13 19C13 19.65 13.1 20.28 13.3 20.86L12 20L9 22L6 20L3 22V3H21V13.34M17 9V7H7V9H17M15 13V11H7V13H15M15 18V20H23V18H15Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceTextMinus SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceTextMinus => SvgIcon.FromContent("<path d=\"M3 3V22L6 20L9 22L12 20L13.3 20.86C13.1 20.28 13 19.65 13 19C13 15.69 15.69 13 19 13C19.7 13 20.37 13.12 21 13.34V3H3M17 7V9H7V7H17M15 11V13H7V11H15M15 18V20H23V18H15Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceTextMultipleOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceTextMultipleOutline => SvgIcon.FromContent("<path d=\"M2 2V17H4V4H17V2H2M10 10H17V12H10V10M15 14H10V16H15V14M18.5 20.32L21 22V6H6V22L8.5 20.32L11 22L13.5 20.32L16 22L18.5 20.32M19 8V17.57L16 19.59L13.5 17.9L11 19.59L8 17.57V8H19Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceTextMultiple SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceTextMultiple => SvgIcon.FromContent("<path d=\"M17 2H2V17H4V4H17V2M21 22L18.5 20.32L16 22L13.5 20.32L11 22L8.5 20.32L6 22V6H21V22M10 10V12H17V10H10M15 14H10V16H15V14Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceTextOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceTextOutline => SvgIcon.FromContent("<path d=\"M17 7V9H7V7H17M15 11V13H7V11H15M18 20L21 22V3H3V22L6 20L9 22L12 20L15 22L18 20M19 5V18.26L18 17.6L15 19.6L12 17.6L9 19.6L6 17.6L5 18.26V5H19Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceTextPlusOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceTextPlusOutline => SvgIcon.FromContent("<path d=\"M21 13.34C20.37 13.12 19.7 13 19 13V5H5V18.26L6 17.6L9 19.6L12 17.6L13.04 18.29C13 18.5 13 18.76 13 19C13 19.65 13.1 20.28 13.3 20.86L12 20L9 22L6 20L3 22V3H21V13.34M17 9V7H7V9H17M15 13V11H7V13H15M18 15V18H15V20H18V23H20V20H23V18H20V15H18Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceTextPlus SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceTextPlus => SvgIcon.FromContent("<path d=\"M3 3V22L6 20L9 22L12 20L13.3 20.86C13.1 20.28 13 19.65 13 19C13 15.69 15.69 13 19 13C19.7 13 20.37 13.12 21 13.34V3H3M17 7V9H7V7H17M15 11V13H7V11H15M18 15V18H15V20H18V23H20V20H23V18H20V15H18Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceTextRemoveOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceTextRemoveOutline => SvgIcon.FromContent("<path d=\"M12 20L13.3 20.86C13.1 20.28 13 19.65 13 19C13 18.76 13 18.5 13.04 18.29L12 17.6L9 19.6L6 17.6L5 18.26V5H19V13C19.7 13 20.37 13.12 21 13.34V3H3V22L6 20L9 22L12 20M17 9V7H7V9H17M15 13V11H7V13H15M19 17.6L16.9 15.5L15.5 16.9L17.6 19L15.5 21.1L16.9 22.5L19 20.4L21.1 22.5L22.5 21.1L20.4 19L22.5 16.9L21.1 15.5L19 17.6Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceTextRemove SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceTextRemove => SvgIcon.FromContent("<path d=\"M3 3V22L6 20L9 22L12 20L13.3 20.86C13.1 20.28 13 19.65 13 19C13 15.69 15.69 13 19 13C19.7 13 20.37 13.12 21 13.34V3H3M17 7V9H7V7H17M15 11V13H7V11H15M19 17.6L16.9 15.5L15.5 16.9L17.6 19L15.5 21.1L16.9 22.5L19 20.4L21.1 22.5L22.5 21.1L20.4 19L22.5 16.9L21.1 15.5L19 17.6Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceTextSendOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceTextSendOutline => SvgIcon.FromContent("<path d=\"M24 18L14 23V19L18 18L14 17V13L24 18M21 14.26L19 13.26V5H5V18.26L6 17.6L9 19.6L12 17.6V20L9 22L6 20L3 22V3H21V14.26M17 7V9H7V7H17M12 13V11H7V13H12Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceTextSend SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceTextSend => SvgIcon.FromContent("<path d=\"M3 3V22L6 20L9 22L12 20V13H7V11H14.47L21 14.26V3H3M17 9H7V7H17V9M14 23V19L18 18L14 17V13L24 18L14 23Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the InvoiceText SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon InvoiceText => SvgIcon.FromContent("<path d=\"M3 3V22L6 20L9 22L12 20L15 22L18 20L21 22V3H3M17 7V9H7V7H17M15 11V13H7V11H15Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the Invoice SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon Invoice => SvgIcon.FromContent("<path d=\"M21 22L18 20L15 22L12 20L9 22L6 20L3 22V3H21V22Z\" />", "0 0 24 24");
+/// <summary>
 /// Gets the Iobroker SvgIcon from the MdiIcon library.
 /// </summary>
 public static SvgIcon Iobroker => SvgIcon.FromContent("<path d=\"M12 2C11.5 2 11 2.04 10.5 2.11V4.85C11 4.75 11.5 4.7 12 4.7C12.5 4.7 13 4.75 13.5 4.85V2.12C13 2.04 12.5 2 12 2M9.82 2.25C5.4 3.25 2.11 7.24 2.11 12C2.11 17.5 6.53 22 12 22C17.47 22 21.89 17.5 21.89 12C21.89 7.24 18.6 3.25 14.19 2.25V5.03C17.17 5.96 19.34 8.73 19.34 12C19.34 16 16.05 19.3 12 19.3C7.96 19.3 4.67 16 4.67 12C4.67 8.73 6.84 5.96 9.82 5.03M12 5.45C11.5 5.45 11 5.5 10.5 5.62V18.27C11 18.38 11.5 18.44 12 18.44C12.5 18.44 13 18.39 13.5 18.27V5.62C13 5.5 12.5 5.45 12 5.45Z\" />", "0 0 24 24");
@@ -16540,7 +16792,7 @@ public static SvgIcon LaserPointer => SvgIcon.FromContent("<path d=\"M9 13L5 16C
 /// <summary>
 /// Gets the Lasso SvgIcon from the MdiIcon library.
 /// </summary>
-public static SvgIcon Lasso => SvgIcon.FromContent("<path d=\"M12 2C17.5 2 22 5.13 22 9C22 12.26 18.81 15 14.5 15.78L14.5 15.5C14.5 14.91 14.4 14.34 14.21 13.81C17.55 13.21 20 11.28 20 9C20 6.24 16.42 4 12 4C7.58 4 4 6.24 4 9C4 10.19 4.67 11.29 5.79 12.15C5.35 12.64 5 13.21 4.78 13.85C3.06 12.59 2 10.88 2 9C2 5.13 6.5 2 12 2M9.5 12C11.43 12 13 13.57 13 15.5C13 17.4 11.5 18.95 9.6 19C9.39 19.36 9.18 20 9.83 20.68C11 21.88 13.28 19.72 16.39 19.71C18.43 19.7 20.03 19.97 20.03 19.97C20.03 19.97 21.08 20.1 20.97 21.04C20.86 21.97 19.91 21.97 19.91 21.97C19.53 21.93 18.03 21.58 16.22 21.68C14.41 21.77 13.47 22.41 12.56 22.69C11.66 22.97 9.91 23.38 8.3 22.05C6.97 20.96 7.46 19.11 7.67 18.5C6.67 17.87 6 16.76 6 15.5C6 13.57 7.57 12 9.5 12M9.5 14C8.67 14 8 14.67 8 15.5C8 16.33 8.67 17 9.5 17C10.33 17 11 16.33 11 15.5C11 14.67 10.33 14 9.5 14Z\" />", "0 0 24 24");
+public static SvgIcon Lasso => SvgIcon.FromContent("<path d=\"M22 9C22 5.13 17.5 2 12 2C6.5 2 2 5.13 2 9C2 9.00843 2.00002 9.01685 2.00006 9.02527C2.00952 10.8953 3.06771 12.5956 4.78 13.85C4.78103 13.847 4.78207 13.844 4.7831 13.841C5.18858 14.1369 5.63069 14.408 6.10419 14.6507C6.03614 14.9227 6 15.2072 6 15.5C6 16.76 6.67 17.87 7.67 18.5C7.46 19.11 6.97 20.96 8.3 22.05C9.91 23.38 11.66 22.97 12.56 22.69C12.8116 22.6126 13.0655 22.5076 13.3395 22.3944C14.0563 22.0981 14.9105 21.7451 16.22 21.68C17.6764 21.5995 18.9321 21.8104 19.5651 21.9167C19.7188 21.9425 19.8358 21.9622 19.91 21.97C19.91 21.97 20.86 21.97 20.97 21.04C21.08 20.1 20.03 19.97 20.03 19.97C20.03 19.97 18.43 19.7 16.39 19.71C14.9823 19.7145 13.7447 20.1595 12.703 20.5341C11.4434 20.987 10.4704 21.3368 9.83 20.68C9.18 20 9.39 19.36 9.6 19C11.3416 18.9542 12.7471 17.6481 12.9693 15.9673C13.4921 15.9319 14.0034 15.8699 14.5 15.78C18.6753 15.0244 21.7995 12.4293 21.9907 9.30406C21.9969 9.20324 22 9.10187 22 9ZM20 9C20 10.2554 19.2572 11.4047 18.032 12.2843C16.6998 13.2393 14.7966 13.8752 12.6542 13.9835C12.0881 12.8109 10.887 12 9.5 12C8.57261 12 7.72834 12.3625 7.10143 12.9533C6.61638 12.7181 6.17578 12.4489 5.78883 12.1513L5.79 12.15C4.6875 11.3034 4.02105 10.2243 4.00049 9.05571C4.00016 9.03717 4 9.01859 4 9C4 6.24 7.58 4 12 4C16.42 4 20 6.24 20 9ZM10.9988 15.5603C10.9933 15.6993 10.9689 15.8333 10.9281 15.96C10.7345 16.5641 10.1694 17 9.5 17C8.67 17 8 16.33 8 15.5C8 15.4718 8.00078 15.4437 8.00231 15.4159C8.04595 14.6266 8.69981 14 9.5 14C10.3284 14 11 14.6716 11 15.5C11 15.5202 10.9996 15.5403 10.9988 15.5603Z\" />", "0 0 24 24");
 /// <summary>
 /// Gets the Lastpass SvgIcon from the MdiIcon library.
 /// </summary>
@@ -17220,7 +17472,7 @@ public static SvgIcon LogoutVariant => SvgIcon.FromContent("<path d=\"M14.08,15.
 /// <summary>
 /// Gets the Logout SvgIcon from the MdiIcon library.
 /// </summary>
-public static SvgIcon Logout => SvgIcon.FromContent("<path d=\"M17 8L15.6 9.4L17.2 11H9V13H17.2L15.6 14.6L17 16L21 12L17 8M5 5H12V3H5C3.9 3 3 3.9 3 5V19C3 20.1 3.9 21 5 21H12V19H5V5Z\" />", "0 0 24 24");
+public static SvgIcon Logout => SvgIcon.FromContent("<path d=\"M17 7L15.59 8.41L18.17 11H8V13H18.17L15.59 15.58L17 17L22 12M4 5H12V3H4C2.9 3 2 3.9 2 5V19C2 20.1 2.9 21 4 21H12V19H4V5Z\" />", "0 0 24 24");
 /// <summary>
 /// Gets the Longitude SvgIcon from the MdiIcon library.
 /// </summary>
@@ -18486,6 +18738,14 @@ public static SvgIcon Motorbike => SvgIcon.FromContent("<path d=\"M17.42,10L13.4
 /// </summary>
 public static SvgIcon MouseBluetooth => SvgIcon.FromContent("<path d=\"M20,7H20.5L23.35,9.85L21.21,12L23.35,14.14L20.5,17H20V13.21L17.71,15.5L17,14.79L19.79,12L17,9.21L17.71,8.5L20,10.79V7M21,8.91V10.79L21.94,9.85L21,8.91M21,13.21V15.08L21.94,14.14L21,13.21M15,9V10H9V2.07C12.39,2.56 15,5.47 15,9M1,10V9C1,5.47 3.61,2.56 7,2.07V10H1M15,15A7,7 0 0,1 8,22A7,7 0 0,1 1,15V12H15V15Z\" />", "0 0 24 24");
 /// <summary>
+/// Gets the MouseLeftClickOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon MouseLeftClickOutline => SvgIcon.FromContent("<path d=\"M13 9V1.07C13.7 1.16 14.37 1.33 15 1.59C17.33 2.53 19.11 4.53 19.75 7C19.91 7.64 20 8.31 20 9H13M17.66 7C17.18 5.65 16.23 4.5 15 3.81V7H17.66M6 15V13H18V15C18 16.59 17.37 18.12 16.24 19.24C15.12 20.37 13.59 21 12 21C10.41 21 8.88 20.37 7.76 19.24C6.63 18.12 6 16.59 6 15M4 15C4 17.12 4.84 19.16 6.34 20.66C7.84 22.16 9.88 23 12 23C14.12 23 16.16 22.16 17.66 20.66C19.16 19.16 20 17.12 20 15V11H4V15M11 9V1.07C7.06 1.56 4 4.92 4 9H11Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the MouseLeftClick SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon MouseLeftClick => SvgIcon.FromContent("<path d=\"M13 9V1.07C16.94 1.56 20 4.92 20 9H13M6.34 20.66C4.84 19.16 4 17.12 4 15V11H20V15C20 17.12 19.16 19.16 17.66 20.66C16.16 22.16 14.12 23 12 23C9.88 23 7.84 22.16 6.34 20.66M11 9V1.07C10.3 1.16 9.63 1.33 9 1.59C6.67 2.53 4.89 4.53 4.25 7C4.09 7.64 4 8.31 4 9H11M6.34 7C6.82 5.65 7.78 4.5 9 3.81V7H6.34Z\" />", "0 0 24 24");
+/// <summary>
 /// Gets the MouseMoveDown SvgIcon from the MdiIcon library.
 /// </summary>
 public static SvgIcon MouseMoveDown => SvgIcon.FromContent("<path d=\"M7 9H2C2 6.04 4.17 3.57 7 3.09V9M20 7H18V13H15L19 17L23 13H20V7M9 3.09V9H14C14 6.04 11.83 3.57 9 3.09M2 15C2 18.3 4.7 21 8 21S14 18.3 14 15V11H2V15Z\" />", "0 0 24 24");
@@ -18501,6 +18761,22 @@ public static SvgIcon MouseMoveVertical => SvgIcon.FromContent("<path d=\"M20 6H
 /// Gets the MouseOff SvgIcon from the MdiIcon library.
 /// </summary>
 public static SvgIcon MouseOff => SvgIcon.FromContent("<path d=\"M2,5.27L3.28,4L20,20.72L18.73,22L17.5,20.79C16.08,22.16 14.14,23 12,23A8,8 0 0,1 4,15V11H7.73L5.73,9H4C4,8.46 4.05,7.93 4.15,7.42L2,5.27M11,1.07V9H10.82L5.79,3.96C7.05,2.4 8.9,1.33 11,1.07M20,11V15C20,15.95 19.83,16.86 19.53,17.71L12.82,11H20M13,1.07C16.94,1.56 20,4.92 20,9H13V1.07Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the MouseOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon MouseOutline => SvgIcon.FromContent("<path d=\"M13 9V1.07C13.7 1.16 14.37 1.33 15 1.59C17.33 2.53 19.11 4.53 19.75 7C19.91 7.64 20 8.31 20 9H13M17.66 7C17.18 5.65 16.23 4.5 15 3.81V7H17.66M11 9V1.07C10.3 1.16 9.63 1.33 9 1.59C6.67 2.53 4.89 4.53 4.25 7C4.09 7.64 4 8.31 4 9H11M6.34 7C6.82 5.65 7.78 4.5 9 3.81V7H6.34M6 15V13H18V15C18 16.59 17.37 18.12 16.24 19.24C15.12 20.37 13.59 21 12 21C10.41 21 8.88 20.37 7.76 19.24C6.63 18.12 6 16.59 6 15M4 15C4 17.12 4.84 19.16 6.34 20.66C7.84 22.16 9.88 23 12 23C14.12 23 16.16 22.16 17.66 20.66C19.16 19.16 20 17.12 20 15V11H4V15Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the MouseRightClickOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon MouseRightClickOutline => SvgIcon.FromContent("<path d=\"M13 9V1.07C16.94 1.56 20 4.92 20 9H13M11 9V1.07C10.3 1.16 9.63 1.33 9 1.59C6.67 2.53 4.89 4.53 4.25 7C4.09 7.64 4 8.31 4 9H11M6.34 7C6.82 5.65 7.78 4.5 9 3.81V7H6.34M6 15V13H18V15C18 16.59 17.37 18.12 16.24 19.24C15.12 20.37 13.59 21 12 21C10.41 21 8.88 20.37 7.76 19.24C6.63 18.12 6 16.59 6 15M4 15C4 17.12 4.84 19.16 6.34 20.66C7.84 22.16 9.88 23 12 23C14.12 23 16.16 22.16 17.66 20.66C19.16 19.16 20 17.12 20 15V11H4V15Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the MouseRightClick SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon MouseRightClick => SvgIcon.FromContent("<path d=\"M13 9V1.07C13.7 1.16 14.37 1.33 15 1.59C17.33 2.53 19.11 4.53 19.75 7C19.91 7.64 20 8.31 20 9H13M17.66 7C17.18 5.65 16.23 4.5 15 3.81V7H17.66M11 9V1.07C7.06 1.56 4 4.92 4 9H11M6.34 20.66C4.84 19.16 4 17.12 4 15V11H20V15C20 17.12 19.16 19.16 17.66 20.66C16.16 22.16 14.12 23 12 23C9.88 23 7.84 22.16 6.34 20.66Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the MouseScrollWheel SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon MouseScrollWheel => SvgIcon.FromContent("<path d=\"M11 1.07C7.05 1.56 4 4.92 4 9H11V7.73C10.4 7.39 10 6.74 10 6V4C10 3.26 10.4 2.61 11 2.27V1.07M13 9V7.73C13.6 7.39 14 6.74 14 6V4C14 3.26 13.6 2.61 13 2.27V1.07C16.94 1.56 20 4.92 20 9H13M4 15C4 17.12 4.84 19.16 6.34 20.66C7.84 22.16 9.88 23 12 23C14.12 23 16.16 22.16 17.66 20.66C19.16 19.16 20 17.12 20 15V11H4V15M13 6V4C13 3.45 12.55 3 12 3C11.45 3 11 3.45 11 4V6C11 6.55 11.45 7 12 7C12.55 7 13 6.55 13 6Z\" />", "0 0 24 24");
 /// <summary>
 /// Gets the MouseVariantOff SvgIcon from the MdiIcon library.
 /// </summary>
@@ -21653,6 +21929,10 @@ public static SvgIcon ProgressStarFourPoints => SvgIcon.FromContent("<path d=\"M
 /// Gets the ProgressStar SvgIcon from the MdiIcon library.
 /// </summary>
 public static SvgIcon ProgressStar => SvgIcon.FromContent("<path d=\"M13 2V4C17.39 4.54 20.5 8.53 19.96 12.92C19.5 16.56 16.64 19.43 13 19.88V21.88C18.5 21.28 22.45 16.34 21.85 10.85C21.33 6.19 17.66 2.5 13 2M11 2C9.04 2.18 7.19 2.95 5.67 4.2L7.1 5.74C8.22 4.84 9.57 4.26 11 4.06V2.06M4.26 5.67C3 7.19 2.24 9.04 2.05 11H4.05C4.24 9.58 4.8 8.23 5.69 7.1L4.26 5.67M2.06 13C2.26 14.96 3.03 16.81 4.27 18.33L5.69 16.9C4.81 15.77 4.24 14.42 4.06 13H2.06M7.06 18.37L5.67 19.74C7.18 21 9.04 21.79 11 22V20C9.58 19.82 8.23 19.25 7.1 18.37H7.06M8.58 16.8L9.5 12.91L6.5 10.33L10.45 9.96L12 6.35L13.55 10L17.5 10.33L14.5 12.91L15.42 16.8L12 14.74L8.58 16.8\" />", "0 0 24 24");
+/// <summary>
+/// Gets the ProgressTag SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon ProgressTag => SvgIcon.FromContent("<path d=\"M13 4V2C17.66 2.5 21.33 6.19 21.85 10.85C22.45 16.34 18.5 21.28 13 21.88V19.88C16.64 19.43 19.5 16.56 19.96 12.92C20.5 8.53 17.39 4.54 13 4M5.67 4.2C7.19 2.95 9.04 2.18 11 2V4.06C9.57 4.26 8.22 4.84 7.1 5.74L5.67 4.2M2.05 11C2.24 9.04 3 7.19 4.26 5.67L5.69 7.1C4.8 8.23 4.24 9.58 4.05 11H2.05M4.27 18.33C3.03 16.81 2.26 14.96 2.06 13H4.06C4.24 14.42 4.81 15.77 5.69 16.9L4.27 18.33M5.67 19.74L7.06 18.37H7.1C8.23 19.25 9.58 19.82 11 20V22C9.04 21.79 7.18 21 5.67 19.74M11.6 8C11.8 8 12 8.1 12.2 8.2L15.8 11.8C15.9 12 16 12.2 16 12.4C16 12.7 15.9 12.9 15.8 13L13 15.8C12.8 15.9 12.6 16 12.4 16C12.1 16 11.9 15.9 11.8 15.8L8.2 12.2C8.1 12 8 11.8 8 11.6V8.8C8 8.4 8.4 8 8.8 8H11.6M8.8 9.4C8.8 9.7 9.1 10 9.4 10C9.7 10 10 9.7 10 9.4C10 9.1 9.7 8.8 9.4 8.8C9.1 8.8 8.8 9.1 8.8 9.4Z\" />", "0 0 24 24");
 /// <summary>
 /// Gets the ProgressUpload SvgIcon from the MdiIcon library.
 /// </summary>
@@ -25626,6 +25906,10 @@ public static SvgIcon SwapHorizontalCircleOutline => SvgIcon.FromContent("<path 
 /// </summary>
 public static SvgIcon SwapHorizontalCircle => SvgIcon.FromContent("<path d=\"M22 12C22 6.5 17.5 2 12 2S2 6.5 2 12 6.5 22 12 22 22 17.5 22 12M15 6.5L18.5 10L15 13.5V11H11V9H15V6.5M9 17.5L5.5 14L9 10.5V13H13V15H9V17.5Z\" />", "0 0 24 24");
 /// <summary>
+/// Gets the SwapHorizontalHidden SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon SwapHorizontalHidden => SvgIcon.FromContent("<path d=\"M17 5L21 9L17 13V5M16 8H13V10H16V8M12 10V8H10V10H12M3 15L7 11V19L3 15M8 16H11V14H8V16M12 14V16H14V14H12Z\" />", "0 0 24 24");
+/// <summary>
 /// Gets the SwapHorizontalVariant SvgIcon from the MdiIcon library.
 /// </summary>
 public static SvgIcon SwapHorizontalVariant => SvgIcon.FromContent("<path d=\"M4,6L8,10V7H16A2,2 0 0,1 18,9A2,2 0 0,1 16,11H8A4,4 0 0,0 4,15A4,4 0 0,0 8,19H16V22L20,18L16,14V17H8A2,2 0 0,1 6,15A2,2 0 0,1 8,13H16A4,4 0 0,0 20,9A4,4 0 0,0 16,5H8V2L4,6Z\" />", "0 0 24 24");
@@ -27686,6 +27970,10 @@ public static SvgIcon UmbrellaOutline => SvgIcon.FromContent("<path d=\"M12,4C8.
 /// </summary>
 public static SvgIcon Umbrella => SvgIcon.FromContent("<path d=\"M12,2A9,9 0 0,1 21,11H13V19A3,3 0 0,1 10,22A3,3 0 0,1 7,19V18H9V19A1,1 0 0,0 10,20A1,1 0 0,0 11,19V11H3A9,9 0 0,1 12,2Z\" />", "0 0 24 24");
 /// <summary>
+/// Gets the UnderwearOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon UnderwearOutline => SvgIcon.FromContent("<path d=\"M3 4C2.45 4 2 4.45 2 5V10C2 15.5 6.5 20 12 20C17.5 20 22 15.5 22 10V5C22 4.45 21.55 4 21 4H3M20 6V8H4V6H20M4 10H20C20 10.34 20 10.67 19.94 11C16.12 11.03 13.03 14.12 13 17.94C12.67 18 12.34 18 12 18C11.66 18 11.33 18 11 17.94C10.97 14.12 7.88 11.03 4.06 11C4 10.67 4 10.34 4 10M15.04 17.4C15.31 15.12 17.12 13.31 19.41 13.04C18.59 15 17 16.59 15.03 17.41M4.6 13.04C6.88 13.31 8.7 15.12 8.97 17.41C7 16.59 5.41 15 4.6 13.03Z\" />", "0 0 24 24");
+/// <summary>
 /// Gets the UndoVariant SvgIcon from the MdiIcon library.
 /// </summary>
 public static SvgIcon UndoVariant => SvgIcon.FromContent("<path d=\"M13.5,7A6.5,6.5 0 0,1 20,13.5A6.5,6.5 0 0,1 13.5,20H10V18H13.5C16,18 18,16 18,13.5C18,11 16,9 13.5,9H7.83L10.91,12.09L9.5,13.5L4,8L9.5,2.5L10.92,3.91L7.83,7H13.5M6,18H8V20H6V18Z\" />", "0 0 24 24");
@@ -27742,6 +28030,22 @@ public static SvgIcon Unreal => SvgIcon.FromContent("<path d=\"M2,12A10,10 0 0,0
 /// </summary>
 public static SvgIcon Update => SvgIcon.FromContent("<path d=\"M21,10.12H14.22L16.96,7.3C14.23,4.6 9.81,4.5 7.08,7.2C4.35,9.91 4.35,14.28 7.08,17C9.81,19.7 14.23,19.7 16.96,17C18.32,15.65 19,14.08 19,12.1H21C21,14.08 20.12,16.65 18.36,18.39C14.85,21.87 9.15,21.87 5.64,18.39C2.14,14.92 2.11,9.28 5.62,5.81C9.13,2.34 14.76,2.34 18.27,5.81L21,3V10.12M12.5,8V12.25L16,14.33L15.28,15.54L11,13V8H12.5Z\" />", "0 0 24 24");
 /// <summary>
+/// Gets the UploadBoxOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon UploadBoxOutline => SvgIcon.FromContent("<path d=\"M8 17V15H16V17H8M16 11L12 7L8 11H10.5V14H13.5V11H16M5 3H19C20.11 3 21 3.9 21 5V19C21 20.11 20.11 21 19 21H5C3.9 21 3 20.11 3 19V5C3 3.9 3.9 3 5 3M5 5V19H19V5H5Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the UploadBox SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon UploadBox => SvgIcon.FromContent("<path d=\"M5 3H19C20.11 3 21 3.9 21 5V19C21 20.11 20.11 21 19 21H5C3.9 21 3 20.11 3 19V5C3 3.9 3.9 3 5 3M16 17V15H8V17H16M16 11L12 7L8 11H10.5V14H13.5V11H16Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the UploadCircleOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon UploadCircleOutline => SvgIcon.FromContent("<path d=\"M8 17V15H16V17H8M16 10L12 6L8 10H10.5V14H13.5V10H16M12 2C17.5 2 22 6.5 22 12C22 17.5 17.5 22 12 22C6.5 22 2 17.5 2 12C2 6.5 6.5 2 12 2M12 4C7.58 4 4 7.58 4 12C4 16.42 7.58 20 12 20C16.42 20 20 16.42 20 12C20 7.58 16.42 4 12 4Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the UploadCircle SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon UploadCircle => SvgIcon.FromContent("<path d=\"M12 2C17.5 2 22 6.5 22 12C22 17.5 17.5 22 12 22C6.5 22 2 17.5 2 12C2 6.5 6.5 2 12 2ZM16 17V15H8V17H16ZM16 10L12 6L8 10H10.5V14H13.5V10H16Z\" />", "0 0 24 24");
+/// <summary>
 /// Gets the UploadLockOutline SvgIcon from the MdiIcon library.
 /// </summary>
 public static SvgIcon UploadLockOutline => SvgIcon.FromContent("<path d=\"M22 22H17C16.5 22 16 21.5 16 21V17C16 16.5 16.5 16 17 16V14.5C17 13.1 18.1 12 19.5 12C20.9 12 22 13.1 22 14.5V16C22.5 16 23 16.5 23 17V21C23 21.5 22.5 22 22 22M5 18H14V20H5V18M21 16V14.5C21 13.7 20.3 13 19.5 13C18.7 13 18 13.7 18 14.5V16H21M9 16V10H5L12 3L19 10H15V16H9M9.83 8H11V14H13V8H14.17L12 5.83L9.83 8Z\" />", "0 0 24 24");
@@ -27749,6 +28053,10 @@ public static SvgIcon UploadLockOutline => SvgIcon.FromContent("<path d=\"M22 22
 /// Gets the UploadLock SvgIcon from the MdiIcon library.
 /// </summary>
 public static SvgIcon UploadLock => SvgIcon.FromContent("<path d=\"M22 22H17C16.5 22 16 21.5 16 21V17C16 16.5 16.5 16 17 16V14.5C17 13.1 18.1 12 19.5 12C20.9 12 22 13.1 22 14.5V16C22.5 16 23 16.5 23 17V21C23 21.5 22.5 22 22 22M14 20H5V18H14V20M21 16V14.5C21 13.7 20.3 13 19.5 13C18.7 13 18 13.7 18 14.5V16H21M15 16H9V10H5L12 3L19 10H15V16Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the UploadMultipleOutline SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon UploadMultipleOutline => SvgIcon.FromContent("<path d=\"M19 8H15V14H9V8H5L12 1L19 8M14.17 6L12 3.83L9.83 6H11V12H13V6H14.17M5 16V18H19V16H5M19 20V22H5V20H19Z\" />", "0 0 24 24");
 /// <summary>
 /// Gets the UploadMultiple SvgIcon from the MdiIcon library.
 /// </summary>
@@ -28809,6 +29117,18 @@ public static SvgIcon WeatherLightningRainy => SvgIcon.FromContent("<path d=\"M4
 /// Gets the WeatherLightning SvgIcon from the MdiIcon library.
 /// </summary>
 public static SvgIcon WeatherLightning => SvgIcon.FromContent("<path d=\"M6,16A5,5 0 0,1 1,11A5,5 0 0,1 6,6C7,3.65 9.3,2 12,2C15.43,2 18.24,4.66 18.5,8.03L19,8A4,4 0 0,1 23,12A4,4 0 0,1 19,16H18A1,1 0 0,1 17,15A1,1 0 0,1 18,14H19A2,2 0 0,0 21,12A2,2 0 0,0 19,10H17V9A5,5 0 0,0 12,4C9.5,4 7.45,5.82 7.06,8.19C6.73,8.07 6.37,8 6,8A3,3 0 0,0 3,11A3,3 0 0,0 6,14H7A1,1 0 0,1 8,15A1,1 0 0,1 7,16H6M12,11H15L13,15H15L11.25,22L12,17H9.5L12,11Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the WeatherMoonsetDown SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon WeatherMoonsetDown => SvgIcon.FromContent("<path d=\"M3 12H7C7 10.67 7.53 9.4 8.46 8.46C9.4 7.53 10.67 7 12 7C13.33 7 14.6 7.53 15.54 8.46C16.47 9.4 17 10.67 17 12H21C21.27 12 21.5 12.11 21.71 12.29C21.9 12.5 22 12.74 22 13C22 13.27 21.9 13.5 21.71 13.71C21.5 13.9 21.27 14 21 14H3C2.74 14 2.5 13.9 2.29 13.71C2.11 13.5 2 13.27 2 13C2 12.74 2.11 12.5 2.29 12.29C2.5 12.11 2.74 12 3 12M12.71 20.71L15.82 17.6C16.21 17.21 16.21 16.57 15.82 16.18C15.43 15.79 14.8 15.79 14.41 16.18L12 18.59L9.59 16.18C9.2 15.79 8.57 15.79 8.18 16.18C7.79 16.57 7.79 17.21 8.18 17.6L11.29 20.71C11.5 20.9 11.74 21 12 21C12.26 21 12.5 20.9 12.71 20.71Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the WeatherMoonsetUp SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon WeatherMoonsetUp => SvgIcon.FromContent("<path d=\"M3 12H7C7 10.67 7.53 9.4 8.46 8.46C9.4 7.53 10.67 7 12 7C13.33 7 14.6 7.53 15.54 8.46C16.47 9.4 17 10.67 17 12H21C21.27 12 21.5 12.11 21.71 12.29C21.9 12.5 22 12.74 22 13C22 13.27 21.9 13.5 21.71 13.71C21.5 13.9 21.27 14 21 14H3C2.74 14 2.5 13.9 2.29 13.71C2.11 13.5 2 13.27 2 13C2 12.74 2.11 12.5 2.29 12.29C2.5 12.11 2.74 12 3 12M12.71 16.3L15.82 19.41C16.21 19.8 16.21 20.43 15.82 20.82C15.43 21.21 14.8 21.21 14.41 20.82L12 18.41L9.59 20.82C9.2 21.21 8.57 21.21 8.18 20.82C7.79 20.43 7.79 19.8 8.18 19.41L11.29 16.3C11.5 16.1 11.74 16 12 16C12.26 16 12.5 16.1 12.71 16.3Z\" />", "0 0 24 24");
+/// <summary>
+/// Gets the WeatherMoonset SvgIcon from the MdiIcon library.
+/// </summary>
+public static SvgIcon WeatherMoonset => SvgIcon.FromContent("<path d=\"M3 12H7C7 10.67 7.53 9.4 8.46 8.46C9.4 7.53 10.67 7 12 7C13.33 7 14.6 7.53 15.54 8.46C16.47 9.4 17 10.67 17 12H21C21.27 12 21.5 12.11 21.71 12.29C21.9 12.5 22 12.74 22 13C22 13.27 21.9 13.5 21.71 13.71C21.5 13.9 21.27 14 21 14H3C2.74 14 2.5 13.9 2.29 13.71C2.11 13.5 2 13.27 2 13C2 12.74 2.11 12.5 2.29 12.29C2.5 12.11 2.74 12 3 12M5 16H19C19.27 16 19.5 16.11 19.71 16.29C19.9 16.5 20 16.74 20 17C20 17.27 19.9 17.5 19.71 17.71C19.5 17.9 19.27 18 19 18H5C4.74 18 4.5 17.9 4.29 17.71C4.11 17.5 4 17.27 4 17C4 16.74 4.11 16.5 4.29 16.29C4.5 16.11 4.74 16 5 16M17 20C17.27 20 17.5 20.11 17.71 20.29C17.9 20.5 18 20.74 18 21C18 21.27 17.9 21.5 17.71 21.71C17.5 21.9 17.27 22 17 22H7C6.74 22 6.5 21.9 6.29 21.71C6.11 21.5 6 21.27 6 21C6 20.74 6.11 20.5 6.29 20.29C6.5 20.11 6.74 20 7 20H17Z\" />", "0 0 24 24");
 /// <summary>
 /// Gets the WeatherNightPartlyCloudy SvgIcon from the MdiIcon library.
 /// </summary>
