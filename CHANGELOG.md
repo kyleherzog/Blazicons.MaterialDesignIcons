@@ -1,6 +1,10 @@
 # Changelog
 These are the list of changes to each version that has been released.
 
+## 3.0
+- [x] Added .NET 8.0/10.0 target frameworks
+- [x] Updated Blazicons to v3.0.12
+
 ## 2.2
 - [x] Updated Blazicons to v2.2.39
 
