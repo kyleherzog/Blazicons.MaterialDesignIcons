@@ -15,7 +15,7 @@ parameters:
 
 variables:
   BuildConfiguration: ${{ parameters.BuildConfiguration }}
-  PrimaryProjectFolder: Blazicons.FontAwesome
+  PrimaryProjectFolder: Blazicons.MaterialDesignIcons
   BuildCounter: $[counter('Seed1', 0)]
 
 trigger:

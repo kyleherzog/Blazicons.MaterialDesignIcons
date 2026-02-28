@@ -5,7 +5,7 @@ Check out the [Demo Site](http://blazicons.com).
 
 ![Nuget](https://img.shields.io/nuget/v/Blazicons.MaterialDesignIcons)
 
-[![Build Status](https://dev.azure.com/kyleherzog/Blazicons/_apis/build/status/Blazicons.MaterialDesignIcons?branchName=main)](https://dev.azure.com/kyleherzog/Blazicons/_build/latest?definitionId=22&branchName=main)
+[![Build Status](https://dev.azure.com/kyleherzog/Blazicons/_apis/build/status%2FBlazicons.MaterialDesignIcons?branchName=main)](https://dev.azure.com/kyleherzog/Blazicons/_build/latest?definitionId=43&branchName=main)
 
 ## Getting Started
 To get started using the Material Design Icons Blazicons, just install the Blazicons.MaterialDesignIcons NuGet package.
